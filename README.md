@@ -1,6 +1,6 @@
 # 💫 About Me:
 Senior Full Stack JavaScript developer | React.js | Node.js
-I'm Full-Stack Developer with 8+ years of experience in Sofware Development. (Back-End & Front-End )<br>⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+I'm Full-Stack Developer with 8+ years of experience in Sofware Development. (Back-End & Front-End )>⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 Hi, I congratulate you on finally finding the right person to realize your dream. I've done many projects and love to see a small idea grow into a large-scale business. I have a commercial background as a professional full-stack developer who is thoroughly familiar with React Next.js Node.js Nest.js 
  Proficient in React.js, Next.js, Redux, and TypeScript, I specialize in diverse UI development using Bootstrap/Material-UI, Restful API, GraphQL, and 3D visualization. I have extensive experience integrating third-party APIs like Stripe, Twilio, and Google Maps. 
  My expertise extends to backend development, where I utilize the Mongoose ODM library for MongoDB and work with SQL, including writing aggregate functions. I am skilled in Node.js, Nest.js, and Express, incorporating libraries such as JWT, FS, Nodemailer, Socket.IO, Mongoose, Sequelize, cors, etc. 
